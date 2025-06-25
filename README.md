@@ -17,3 +17,10 @@ bash
 
 bash
 .\labirinto.exe labirinto.txt config2.ini
+
+Experimentos
+Dois experimentos foram realizados com diferentes parâmetros evolutivos, como taxa de mutação, tamanho da população e número de gerações. Cada experimento está documentado separadamente:
+
+experimento/experimento1.csv
+
+experimento/experimento2.csv
