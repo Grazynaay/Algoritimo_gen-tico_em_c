@@ -9,6 +9,13 @@ Este repositório contém a implementação de um algoritmo genético em linguag
 
 ### Compilação
 
+## 🧪 Experimentos
+Dois experimentos foram realizados com diferentes parâmetros evolutivos, como taxa de mutação, tamanho da população e número de gerações. Cada experimento está documentado separadamente:
+
+experimento/experimento1.csv
+
+experimento/experimento2.csv
+
 ```bash
 gcc -o labirinto.exe main.c config/config.c mapa/labirinto.c populacao/populacao.c populacao/individuo.c genetico/genetico.c
 
@@ -19,10 +26,3 @@ bash
 .\labirinto.exe labirinto.txt config2.ini
 
 
-
-🧪 Experimentos
-Dois experimentos foram realizados com diferentes parâmetros evolutivos, como taxa de mutação, tamanho da população e número de gerações. Cada experimento está documentado separadamente:
-
-experimento/experimento1.csv
-
-experimento/experimento2.csv
