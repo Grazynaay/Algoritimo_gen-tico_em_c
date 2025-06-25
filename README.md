@@ -16,6 +16,16 @@ experimento/experimento1.csv
 
 experimento/experimento2.csv
 
+
+📊 Resultados
+Os logs e gráficos estão disponíveis nas respectivas pastas em resultados/. Cada pasta contém:
+
+log.txt: registro da execução com fitness por geração
+
+experimento1.csv: dados para gerar gráficos
+
+grafico_fitness.png: gráfico da evolução do fitness médio e do melhor indivíduo
+
 ```bash
 gcc -o labirinto.exe main.c config/config.c mapa/labirinto.c populacao/populacao.c populacao/individuo.c genetico/genetico.c
 
