@@ -15,11 +15,19 @@ Dois experimentos foram realizados com diferentes parâmetros evolutivos, como t
 experimento/experimento1.csv
 
 Graficos de evolução em png, gerado a partir de um arquico csv, do experimento de config1.ini
+genoma: 80
+individuo: 50
+geração: 100
+Tipo de geração: aleatorio
 
 ![Captura de tela 2025-06-25 061515](https://github.com/user-attachments/assets/d1b8e355-1a84-4613-aec6-108a0563092e)
 
 
 experimento/experimento2.csv
+genoma: 80
+individuo: 10
+geração: 10
+Tipo de geração: aleatorio
 
 Graficos de evolução em png, gerado a partir de um arquico csv, do experimento de config2.ini
 
