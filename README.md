@@ -6,22 +6,14 @@ Este repositório contém a implementação de um algoritmo genético em linguag
 ---
 
 ## 📁 Estrutura do Repositório
-├── main.c
-├── genetico/
-│ ├── genetico.c
-│ ├── genetico.h
-├── mapa/
-│ ├── labirinto.c
-│ └── labirinto.h 
-├── config/
-│ ├── config.c
-│ └── config.h
-├── populacao/
-│ ├── populacao.c
-│ ├── populacao.h
-│ ├── individuo.h
-│ └── individuo.c
-├── docs/
-│ ├── experimento1.md
-│ └── experimento2.md
-└── README.md
+
+### Compilação
+
+```bash
+gcc -o labirinto.exe main.c config/config.c mapa/labirinto.c populacao/populacao.c populacao/individuo.c genetico/genetico.c
+
+bash
+.\labirinto.exe labirinto.txt config1.ini
+
+bash
+.\labirinto.exe labirinto.txt config2.ini
