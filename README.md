@@ -14,12 +14,14 @@ Dois experimentos foram realizados com diferentes parâmetros evolutivos, como t
 
 experimento/experimento1.csv
 
+Graficos de evolução em png, gerado a partir de um arquico csv, do experimento de config1.ini
 
 ![Captura de tela 2025-06-25 061515](https://github.com/user-attachments/assets/d1b8e355-1a84-4613-aec6-108a0563092e)
 
 
 experimento/experimento2.csv
 
+Graficos de evolução em png, gerado a partir de um arquico csv, do experimento de config2.ini
 
 ![Captura de tela 2025-06-25 061609](https://github.com/user-attachments/assets/940145ef-d569-48ca-b399-5be01c323366)
 
@@ -30,8 +32,6 @@ Os logs e gráficos estão disponíveis nas respectivas pastas em resultados/. C
 log.txt: registro da execução com fitness por geração
 
 experimento1.csv: dados para gerar gráficos
-
-grafico_fitness.png: gráfico da evolução do fitness médio e do melhor indivíduo
 
 
 ```bash
