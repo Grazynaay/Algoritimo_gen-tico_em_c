@@ -1,1 +1,1 @@
-# Algoritimo_gen-tico_em_c
+# Algoritimo_genetico_em_c
