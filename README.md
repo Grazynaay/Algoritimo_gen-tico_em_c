@@ -26,7 +26,7 @@ Graficos de evolução em png, gerado a partir de um arquico csv, do experimento
 ![Captura de tela 2025-06-25 061609](https://github.com/user-attachments/assets/940145ef-d569-48ca-b399-5be01c323366)
 
 
-📊 Resultados
+Resultados
 Os logs e gráficos estão disponíveis nas respectivas pastas em resultados/. Cada pasta contém:
 
 log.txt: registro da execução com fitness por geração
