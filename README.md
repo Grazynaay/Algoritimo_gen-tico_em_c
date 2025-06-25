@@ -13,9 +13,13 @@ Este repositório contém a implementação de um algoritmo genético em linguag
 Dois experimentos foram realizados com diferentes parâmetros evolutivos, como taxa de mutação, tamanho da população e número de gerações. Cada experimento está documentado separadamente:
 
 experimento/experimento1.csv
+
+
 ![Captura de tela 2025-06-25 061515](https://github.com/user-attachments/assets/d1b8e355-1a84-4613-aec6-108a0563092e)
 
+
 experimento/experimento2.csv
+
 
 ![Captura de tela 2025-06-25 061609](https://github.com/user-attachments/assets/940145ef-d569-48ca-b399-5be01c323366)
 
